@@ -1,0 +1,132 @@
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\ApplicationInsights.config
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\roslyn\csc.exe
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\roslyn\vbc.exe
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\controlVacaciones.dll.config
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\controlVacaciones.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\controlVacaciones.pdb
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\Microsoft.AI.Web.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\Microsoft.AI.Web.xml
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\obj\Debug\controlVacaciones.csprojResolveAssemblyReference.cache
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\obj\Debug\controlVacaciones.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\controlVacaciones\obj\Debug\controlVacaciones.pdb
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\ApplicationInsights.config
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\roslyn\csc.exe
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\roslyn\vbc.exe
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\controlVacaciones.dll.config
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\controlVacaciones.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\controlVacaciones.pdb
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\Microsoft.AI.Web.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\Microsoft.AI.Web.xml
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\obj\Debug\controlVacaciones.csprojResolveAssemblyReference.cache
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\obj\Debug\controlVacaciones.dll
+C:\Users\Mario Ch\Documents\TEC\2016\Bases1\proyect2\controlVacaciones\obj\Debug\controlVacaciones.pdb
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\ApplicationInsights.config
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\roslyn\csc.exe
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\roslyn\vbc.exe
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\roslyn\VBCSCompiler.exe
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\controlVacaciones.dll.config
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\controlVacaciones.dll
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\controlVacaciones.pdb
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\Microsoft.AI.Web.dll
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\Microsoft.ApplicationInsights.dll
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\Microsoft.AI.Web.xml
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\Microsoft.ApplicationInsights.xml
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\obj\Debug\controlVacaciones.csprojResolveAssemblyReference.cache
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\obj\Debug\controlVacaciones.dll
+C:\Users\curso\Desktop\Nueva carpeta\controlVacaciones\controlVacaciones\obj\Debug\controlVacaciones.pdb
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\obj\Debug\controlVacaciones.csprojResolveAssemblyReference.cache
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\obj\Debug\controlVacaciones.dll
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\obj\Debug\controlVacaciones.pdb
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\ApplicationInsights.config
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\roslyn\csc.exe
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\roslyn\vbc.exe
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\controlVacaciones.dll.config
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\controlVacaciones.dll
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\controlVacaciones.pdb
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\Microsoft.AI.Web.dll
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\Microsoft.AI.Web.xml
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mario Ch\Downloads\controlVacaciones (1)\controlVacaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
